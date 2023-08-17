@@ -1,0 +1,40 @@
+.card-rounded{
+    background-color: #EDF2F2;
+    border-radius: 10px;
+    margin: auto ;
+    padding: 5px;
+}
+.monto{
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 25px;
+    margin: 50px;
+    
+}
+.formu{
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    justify-content: center;
+}
+.inputForm{
+    width: 200px;
+}
+.montoDescontado{
+    color: red;
+    font-weight: bold;
+}
+.montoAcreditado{
+    color: green;
+    font-weight: bold;
+}
+.itemMov{
+    text-decoration: none;
+    list-style: none;
+}
+#no-padd{
+    padding: 0px, 0px, 0px, 0px !important;
+}
